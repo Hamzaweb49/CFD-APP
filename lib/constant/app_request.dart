@@ -1,7 +1,7 @@
 // ignore_for_file: constant_identifier_names
 
 class AppUrls {
-  static const BASE_URL = "https://claxified.azurewebsites.net/api/";
+  static const BASE_URL = "https://claxified.in/api/";
   static const PINCODE_URL = "https://api.postalpincode.in/pincode/";
 }
 
